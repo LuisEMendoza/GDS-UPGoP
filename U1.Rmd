@@ -1,0 +1,13 @@
+---
+title: "Unidad 1. Componentes de la cadena de suministro, de manufactura y servicios."
+output:
+  html_document:
+    toc: true
+---
+
+## Introducción.
+
+
+
+
+
