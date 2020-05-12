@@ -8,8 +8,4 @@ title: "Universidad Politécnica de Gómez Palacio"
 
 ## Asignatura
 
-### __Matemáticas Financieras__
-
-$$
-I=Cit
-$$
+### __Gestión de la Cadena de Suministro__
