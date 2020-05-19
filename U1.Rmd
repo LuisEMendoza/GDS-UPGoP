@@ -7,7 +7,43 @@ output:
 
 ## Introducción.
 
+En esta unidad se abordan los fundamentos conceptuales de las Cadenas de suministros: qué son, cómo estan conformadas, cómo se diseñan y planifican y la manera en que se operan. También debemos hablar sobre la importancia de la toma de decisiones y la medición del desempeño de una cadena de suministro.
 
+## Las cadenas de suministro
 
+Están formadas por todas las partes involucradas en la satisfacción de una solicitud de un cliente. Es importante comprender que una cadena de suministro no incluye nada más al fabricante y a los proveedores, también involucra a transportistas, almacenistas, vendedores intermedios o minoristas, hasta el propio cliente. Como podemos observar, este proceso comienza desde que se recibe la petición del cliente y termina hasta que éste recibe su pedido.
 
+Pensemos en una persona entrando a una tienda de autoservicio a adquirir un jabón de tocador. La cadena de suministro arranca justo en ese momento, el cliente necesitando el jabón. Luego, entra la tienda donde entra (puede ser una Soriana, Aurrerá, Wal-Mart). La tienda llenó sus estantes con producto que llegó por medio de un almacén o un distribuidor, que tuvo que utilizar quizá un transportista (o ser incluso él mismo). El distribuidor tuvo que ser abastecido por el fabricante del jabón, el cual recibe la materia prima de proveedores: por ejemplo, uno para los empaques. Este proveedor quizá necesitó que otro proveedor le llevara el material necesario para fabricar las cajas. 
+
+Como podemos notarlo, una cadena de suministro no es tan sencilla como pareciera. El ejemplo del jabón está algo simplificado. Podemos dibujar un diagrama que lo represente:
+
+![](images/01-cadena-suministro-jabón.png)
+
+Decimos que el diagrama está simplificado porque puede haber elementos no mencionados por omisión. Y otros elementos que no se muestran simplemente porque harían un diagrama muy saturado. Un componente de la cadena de suministro en el que pocas veces nos fijamos es uno muy importante y obligatorio para su correcta gestión y mejora: la información. Esta tiene un flujo bidireccional, aunque pareciera que la cadena solo va en un sentido. 
+
+Veamos más a fondo. La tienda le proporciona al cliente el producto, pero también información respecto a las existencias y el precio, además de productos alternativos. El cliente paga a la tienda y esta transmite la información del cobro mediante un mecanismo interno, gracias al cual puede saber si es necesario realizar otro pedido al distribuidor. Este recibe el pedido y suministra la mercancía, mientras la tienda le transfiere los fondos necesarios al ser reabastecida. El proveedor también le comunica datos sobre precios y disponibilidad a la tienda. Esto se repite con todas las partes que involucran compra y venta. Incluso también puede haber un flujo de materiales en sentido inverso: la tienda puede devolver empaques al fabricante para su reciclaje.
+
+Como conclusión, el cliente es parte sustancial de la cadena de suministro, pues ésta está diseñada para satisfacer sus necesidades. También tomemos en cuenta que el flujo no es solo de mercancía, sino que incluye fondos e información que se mueven todos en ambas direcciones. 
+
+Obviamente esto que describimos es solo una cadena de suministro. En realidad puede ser más complejo. Es muy raro que un fabricante sea proveedor de un solo distribuidor, por lo cual le vende a muchos de ellos, formando entonces una __red de suministro__. 
+
+### Componentes de una cadena de suministro
+
+Con lo anteriormente expuesto, podemos decir pues que una cadena o red de suministro se compone de:
+
+- Clientes
+
+- Minoristas
+
+- Distribuidores
+
+- Fabricantes
+
+- Proveedores
+
+Cada etapa se conecta por medio del flujo de producto, informaciń y fondos. No es necesario que todas las etapas se encuentren presentes ni que cada etapa sea administrada por una sola entidad. Podríamos pensar en el primer modelo de negocio de Dell, fabricante de computadoras. Por medio de su sitio de internet, el cliente podía armar una computadora a su gusto, transferir los fondos para adquirirla y Dell enviaba el producto a su domicilio. Así, la cadena no necesitaba un distribuidor ni un minorista, pero sí un transportista.
+
+### Objetivo de la cadena de suministro
+
+Anteriormente mencionamos que el diseño de una cadena de suministro se realiza para satisfacer las necesidades del cliente. Pero el objetivo es diferente, aunque relacionado: maximizar el valor total generado. Es decir, el valor de una cadena de suministro es la diferencia entre lo que el cliente paga por el producto y los costos en los que se incurre para hacerle llegar dicho producto. Esto está muy relacionado con la _rentabilidad_ de la propia cadena. Mientras esta última sea más alta, mayor éxito tendrá la cadena. Detengámonos a pensar en esto. La única fuente de ingresos para las cadenas de suministros es el cliente. Por eso el enfoque se encuentra en éste.
 
