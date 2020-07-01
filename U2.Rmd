@@ -7,5 +7,36 @@ output:
 
 ## Introducción.
 
+Para una empresa es muy importante mantener satisfechos a sus clientes, con lo que se puede conseguir que estos vuelvan a comprar sus productos o adquirir sus servicios. Pero en ocasiones resulta difícil saber con exactitud si dichos clientes se encuentran satisfechos. Para ello se manejan los indicadores de satisfacción al cliente, rubro que está incluido en la norma ISO 9001. Se manejan dos tipos de obtención de información al respecto: directa e indirecta. La primera va sobre preguntarle al cliente mediante encuestas o llamadas sobre su sentir. La segunda implica recabar datos sobre rechazos, reclamaciones, quejas, cumplimiento de tratos y contratos, tiempos de entrega, etcétera.
+
+## Indicadores Clave del Rendimiento
+
+A continuación podemos enlistar los indicadores clave de rendimiento, los cuales son los siguientes:
+
+### Indicador NPS (Net Promoter Score)
+
+Es una medida de cuántos clientes se encuentran tan satisfechos con la empresa que la recomendarían o promoverían a otras personas. La puntuación es positiva si existen más personas que la recomiendan que las que no. Es neutra si la cantidad de detractores iguala a los promotores y requiere trabajo. Por el contrario, si hay más detractores, entonces tenemos un balance negativo.
+
+### Puntuación de esfuerzo del cliente
+
+Con este índice pretendemos conocer qué tan fácil es resolver un problema específico por parte del cliente. Recordemos que es más fácil que un cliente vuelva a adquirir un servicio o producto si no necesita realizar un gran esfuerzo para hacerlo. Mientras más fácil sea, más posibilidad de fidelizar al cliente. Aquí podemos englobar también el tiempo que un cliente espera para ser atendido o para recibir su producto.
+
+### Clientes muy satisfechos
+
+Los clientes muy satisfechos son clientes fidelizados, es decir, promotores de la empresa. No podemos descuidarlos ni dejar a un lado la importancia que tienen en cuanto a la información que puedan darnos. Es excelente idea preguntarles qué es lo que los tiene extremadamente contentos con nuestro producto o servicio y utilizar ello para aplicarlo a la clientela restante.
+
+### Satisfacción general
+
+Debemos tomar en cuenta que alcanzar un nivel de satisfacción del 100% es casi imposible o cuando menos, poco realista. Pero lo que sí es posible es trabajar para cada vez acercarnos más a un nivel de satisfacción elevado. Por ello es necesario saber cuántos clientes satisfechos tenemos y lo que causa que lo estén, para así aumentar el nivel y no quedarnos estancados. Esto se consigue con información en principio, conociendo las áreas con problemas y las oportunidades de mejora. Lo anterior se puede conocer mediante las reclamaciones hechas por los clientes, las cuales ofrecen una de las mejores fuentes de información sobre lo que debe mejorarse.
+
+### Puntos de referencia externos
+
+Ya cumpliendo con el autoconocimiento, ya podemos enfocarnos en no perder de vista a los competidores y ubicar exactamente nuestra empresa en el escenario global. Aquí podemos establecer comparaciones en cuanto a los tiempos de entrega, tiempo en resolver quejas o reclamaciones e incluso los plazos de envío. Recordemos que si un competidor puede ofrecer el mismo servicio en menos tiempo, es muy posible que perdamos al cliente ante él.
+
+### Atributos de marca
+
+¿Qué es lo que los clientes esperan de la empresa o de sus productos y servicios? Si lo que nosotros visualizamos de nuestra empresa es un producto único o con suficiente personalidad y nuestros clientes no, entonces necesitamos trabajar en ello. Es necesario que nuestros clientes nos vean como nosotros queremos ser vistos. Esto ya es parte de la imagen de la empresa como tal.
+
+
 
 
