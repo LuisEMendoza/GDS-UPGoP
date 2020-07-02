@@ -63,15 +63,15 @@ Podemos notar que no existe un crecimiento como tal, más bien, hay un conjunto 
 
 Con esto, nos aseguramos de poder utilizar algún método de suavizamiento. El procedimiento se muestra en el video a continuación:
 
-![](https://www.youtube.com/watch?v=sAyTOW3uHPU&t=13s)
+[Promedios móviles](https://www.youtube.com/watch?v=sAyTOW3uHPU&t=13s)
 
 También puede utilizarse el suavizamiento exponencial con estos datos. A continuación un video que muestra este método:
 
-![](https://www.youtube.com/watch?v=8D4czPAgl-w)
+[Suavizamiento exponencial](https://www.youtube.com/watch?v=8D4czPAgl-w)
 
 La manera de decidir cuál de los dos es mejor es mediante el Cuadrado Medio del Error. Mientras más bajo sea este, mejor pronóstico dará el método al que corresponda. El video que sigue muestra cómo se calcula dicho dato:
 
-![](https://www.youtube.com/watch?v=vJPFv33W5B0)
+[Cuadrado Medio del Error](https://www.youtube.com/watch?v=vJPFv33W5B0)
 
 
 
